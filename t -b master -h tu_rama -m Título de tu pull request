@@ -1,0 +1,36 @@
+[33mcommit c58c5f8d888ba5121ad08a5de22f091d3254d43d[m[33m ([m[1;36mHEAD -> [m[1;32mbranch_1[m[33m, [m[1;31morigin/branch_1[m[33m)[m
+Merge: d6e888a d38b349
+Author: Charles M <107741072+AnotherBot6@users.noreply.github.com>
+Date:   Mon Aug 21 13:50:52 2023 -0600
+
+    Merge branch 'branch_1' of https://github.com/AnotherBot6/Repositorio_Prueba into branch_1
+
+[33mcommit d6e888a8368ea32541e9b914e768e237be627116[m
+Author: Charles M <107741072+AnotherBot6@users.noreply.github.com>
+Date:   Mon Aug 21 13:50:48 2023 -0600
+
+    tercer commit?
+
+[33mcommit d38b3498511beca03eac9d3b15d1c53b3e563a63[m
+Author: Charles M <107741072+AnotherBot6@users.noreply.github.com>
+Date:   Mon Aug 21 13:34:24 2023 -0600
+
+    cambio 2
+
+[33mcommit cba6af584ac00d04650ae21fffab9f8b9da5f514[m
+Author: Charles M <107741072+AnotherBot6@users.noreply.github.com>
+Date:   Mon Aug 21 13:32:27 2023 -0600
+
+    Cambio en branch_1
+
+[33mcommit 965ad4fbec6cc028619341f1282f3e2207aa3da8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Charles M <107741072+AnotherBot6@users.noreply.github.com>
+Date:   Mon Aug 21 13:30:40 2023 -0600
+
+    primer commit
+
+[33mcommit f0d0da30e44789c9ed9cd846cae533419ff8574b[m
+Author: Charles M <107741072+AnotherBot6@users.noreply.github.com>
+Date:   Mon Aug 21 13:29:18 2023 -0600
+
+    Initial commit
